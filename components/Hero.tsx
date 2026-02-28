@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
           </div>
 
           <p className="text-lg text-slate-600 dark:text-slate-400 mb-10 max-w-lg">
-            A passionate developer building high-quality websites and applications with modern technologies. Based in Dhamorhat, Naogaon.
+            A passionate developer building high-quality websites and applications with modern technologies. Based in  Naogaon.
           </p>
 
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6">
