@@ -91,7 +91,7 @@ const About: React.FC = () => {
                 <div className="p-3 glass rounded-lg text-primary"><MapPin size={20} /></div>
                 <div>
                   <p className="text-xs uppercase font-bold text-slate-400">Location</p>
-                  <p className="font-medium">Dhamorhat, Naogaon, BD</p>
+                  <p className="font-medium">Naogaon</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -105,7 +105,7 @@ const About: React.FC = () => {
                 <div className="p-3 glass rounded-lg text-primary"><Phone size={20} /></div>
                 <div>
                   <p className="text-xs uppercase font-bold text-slate-400">Phone</p>
-                  <p className="font-medium">01784443710</p>
+                  <p className="font-medium">017********</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
