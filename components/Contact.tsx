@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-xs font-bold uppercase text-slate-400 tracking-widest mb-1">Call Me</p>
-                    <p className="font-bold text-lg">01784443710</p>
+                    <p className="font-bold text-lg">017********</p>
                   </div>
                 </div>
 
@@ -90,7 +90,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-xs font-bold uppercase text-slate-400 tracking-widest mb-1">Location</p>
-                    <p className="font-bold text-lg">Dhamorhat, Naogaon</p>
+                    <p className="font-bold text-lg">Naogaon Rajshahi Bangladesh</p>
                   </div>
                 </div>
               </div>
